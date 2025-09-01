@@ -22,7 +22,7 @@ This project is a client-side website built using Vite and React, designed to di
 
 ## 🖥️ Screenshots
 
-![Screenshot 1](path-to-screenshot) <!-- TODO: Add actual screenshots -->
+![Screenshot 1](https://ik.imagekit.io/yqnbhdlo4/Img/news-2?updatedAt=1756753016659) <!-- TODO: Add actual screenshots -->
 
 ![Screenshot 2](path-to-screenshot) <!-- TODO: Add mobile screenshots -->
 
