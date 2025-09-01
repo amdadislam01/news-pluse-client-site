@@ -126,6 +126,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📄 License
 
+-- Developed By Amdad Islam --
 <!-- TODO: Add License information if a LICENSE file is present.  No license information was detected in the provided data. -->
 
 
