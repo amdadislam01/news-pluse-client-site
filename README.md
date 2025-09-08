@@ -1,4 +1,4 @@
-# 🚀 News Pluse Client Sit
+# 🚀 News Pluse Client Site
 
 <div align="center">
 
